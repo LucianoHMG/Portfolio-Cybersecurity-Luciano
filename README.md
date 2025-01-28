@@ -31,12 +31,6 @@ Combinando minha capacidade analítica com meu valor de ética, acredito que pos
 
 > "A segurança não é um produto, mas um processo." - Bruce Schneier
 
-## Certificações Recentes
-
-- **SOC Essencial IBSEC** (Janeiro 2025)
-  Certificação que valida conhecimentos essenciais em operações de segurança cibernética.
-
-
 ## Como Contribuir
 
 Este repositório é parte do meu portfólio de segurança cibernética. Ao longo do tempo, planejo adicionar mais projetos, exemplos de código, estudos de caso e outros materiais para refletir minha experiência crescente nesta área. Fique à vontade para explorar e contribuir com sugestões.
@@ -48,6 +42,16 @@ Este repositório é parte do meu portfólio de segurança cibernética. Ao long
 
 ## Certificados
 
+SOC Essencial IBSEC* (Janeiro 2025)
+  Certificação que valida conhecimentos essenciais em operações de segurança cibernética
+  
+## Certificações Recentes
+
+![Certificação SOC Essencial IBSEC](https://img.shields.io/badge/Certificação-SOC%20Essencial%20IBSEC-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPddHNK0RRGMfx5zozd+68zMtIMpPJW6TIQrKwkJSUhYWNxEJJSkpKFrKwkT+AhYXFpKxkIQuJIiUlKUlJSd7C3HvnOo/fuTOFKb/6nHPPc57bfW5cXsGHnxixGHHbJuE4xGw7+I9EiOk6XWo9/f4YDZ5HXNfpNk1qlUpYlkVc05hSFPpVlV7DIKlpTOg6PYZBl2XRYRgkdJ1OXadDVUmoKp26TsI0iRsGMU1jRFXpM00SqkqbrpMwDGKGQYthENd1Ek1N9Hke7ZZFp2XRZpq0qiqdpkmHrtOmqsQsi5hlEbUsYqZJzLaJWRZRy6LFsok5DnHHIeo4xF2XZschYlnEHYeIbdPiukQdh5jrEnUcIq5L1HWJuC4RzyPiOERcl4jnEXFdwp5HxPOIeB5h1yXsOIRdl5DrEnJdgq5L0HEIuS5BzyPoeQQ9j4DjEHAcAp5HwPPwOw5+x8HvefjzefyFAoH/+AsFfIUCvkIBfz6Pr1DAVyjgzefx5vP48nl8+Ty+fB5vLoc3l8Oby+HN5fBms3izWbzZLFfZLFfZLFfZLN5MBm8mwzewgCYCPT1LcAAAAABJRU5ErkJggg==) *SOC Essencial IBSEC*. 
+      [Ver Certificado](./certificados/Soc.Ibsec.pdf)
+
+
+ 
 ![IBM Badge](https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-green?style=flat&logo=ibm)
 [Certificado IBM - Cybersecurity Fundamentals](https://www.credly.com/users/luciano-henrique.627cec15)
 
