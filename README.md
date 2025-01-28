@@ -31,6 +31,12 @@ Combinando minha capacidade analítica com meu valor de ética, acredito que pos
 
 > "A segurança não é um produto, mas um processo." - Bruce Schneier
 
+## Certificações Recentes
+
+- **SOC Essencial IBSEC** (Janeiro 2025)
+  Certificação que valida conhecimentos essenciais em operações de segurança cibernética.
+
+
 ## Como Contribuir
 
 Este repositório é parte do meu portfólio de segurança cibernética. Ao longo do tempo, planejo adicionar mais projetos, exemplos de código, estudos de caso e outros materiais para refletir minha experiência crescente nesta área. Fique à vontade para explorar e contribuir com sugestões.
