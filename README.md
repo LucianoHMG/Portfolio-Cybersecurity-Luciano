@@ -1,62 +1,265 @@
-# Portfólio de Segurança Cibernética - Luciano Henrique Morais Girão
+# Portfólio de Segurança Cibernética 🔐
 
-![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Expert-blue?style=flat&logo=github)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![GitHub](https://img.shields.io/badge/GitHub-LucianoHMG-blue?style=flat&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano%20Girão-0077B5?style=flat&logo=linkedin)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-blue?style=for-the-badge&logo=security&logoColor=white)](https://www.cybersecurity.gov/)
+[![SIEM](https://img.shields.io/badge/SIEM-Splunk-green?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+[![Cloud](https://img.shields.io/badge/Cloud_Security-AWS%20%2F%20Azure-orange?style=for-the-badge&logo=cloud&logoColor=white)](https://aws.amazon.com/)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](#)
+![GitHub Badge](https://img.shields.io/badge/GitHub-LucianoHMG-blue?style=for-the-badge&logo=github)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-lucianogirão-blue?style=for-the-badge&logo=linkedin)
 
-## Declaração Profissional
+## 🎯 Sobre Este Portfólio
 
-Sou um profissional dedicado e em constante evolução, com forte interesse em segurança cibernética. Desde que comecei minha jornada na área de tecnologia, fui atraído pela complexidade e desafios que envolvem a proteção de sistemas e dados. Meu objetivo é aplicar minhas habilidades analíticas e criativas para contribuir para um ambiente cibernético mais seguro e eficiente.
+Este repositório contém meu **portfólio profissional de Cybersecurity**, demonstrando expertise em:
 
-## Pontos Fortes
+- ✅ **Análise de Segurança** - Identificação de vulnerabilidades e ameaças
+- ✅ **SIEM & Logs** - Análise de eventos de segurança com Splunk
+- ✅ **Cloud Security** - Proteção de infraestrutura em AWS e Azure
+- ✅ **Hardening** - Configuração segura de sistemas
+- ✅ **Incident Response** - Resposta a incidentes de segurança
+- ✅ **Penetration Testing** - Avaliação de vulnerabilidades
 
-- **Capacidade Analítica**: Habilidade aprimorada para identificar rapidamente vulnerabilidades e pontos de melhoria em sistemas.
-- **Flexibilidade**: Adaptação a diferentes cenários e tecnologias, sempre aberto a aprender novas ferramentas e estratégias de segurança.
-- **Comunicação Assertiva**: Trabalho colaborativamente com equipes, resolvendo problemas e implementando soluções de segurança de maneira clara e eficiente.
+---
 
-## Valores
+## 📋 Declaração Profissional
 
-- **Ética**: Comprometido com a integridade e com o respeito às normas e regulamentações relacionadas à segurança da informação.
-- **Confiança**: Proteger dados e informações é essencial, e sei da importância de manter a privacidade dos usuários.
-- **Responsabilidade**: Assumo a responsabilidade de proteger sistemas e dados sensíveis, garantindo a segurança e a continuidade dos negócios.
+Sou um profissional dedicado e em constante evolução, com forte interesse em **segurança cibernética**. Desde que comecei minha jornada na área de tecnologia, fui atraído pela complexidade e desafios que envolvem a proteção de sistemas e dados. 
 
-## Interesse em Segurança Cibernética
+Meu objetivo é aplicar minhas habilidades analíticas e criativas para contribuir para um **ambiente cibernético mais seguro e eficiente**, trabalhando em colaboração com equipes multidisciplinares.
 
-A segurança cibernética me atrai pela sua importância crescente no mundo digital. À medida que as tecnologias evoluem, as ameaças também se tornam mais sofisticadas. Estar à frente dessas ameaças é fundamental para garantir a proteção de informações críticas. Estou empolgado para aprender mais sobre as melhores práticas, novas ameaças e soluções inovadoras que possam fortalecer a segurança de qualquer organização.
+---
 
-## Contribuições para as Metas de Segurança de uma Organização
+## 🛠️ Pontos Fortes
 
-Combinando minha capacidade analítica com meu valor de ética, acredito que posso identificar proativamente vulnerabilidades e implementar soluções eficazes para mitigar riscos. Meu interesse genuíno por segurança cibernética e minha abordagem flexível me permitem ajustar minhas estratégias às necessidades específicas de cada organização, sempre focando em resultados que garantam a proteção de dados e a continuidade dos negócios.
+### 🔍 Análise & Investigação
+- Análise forense de logs
+- Investigação de incidentes
+- Correlação de eventos
+- Threat hunting
+- Análise de malware
 
-> "A segurança não é um produto, mas um processo." - Bruce Schneier
+### 🛡️ Proteção & Prevenção
+- Configuração de firewalls
+- Hardening de sistemas
+- Implementação de WAF
+- Segmentação de rede
+- Políticas de segurança
 
-## Como Contribuir
+### ☁️ Cloud Security
+- AWS Security
+- Azure Security
+- Gerenciamento de identidades (IAM)
+- Proteção de dados em nuvem
+- Compliance e regulamentações
 
-Este repositório é parte do meu portfólio de segurança cibernética. Ao longo do tempo, planejo adicionar mais projetos, exemplos de código, estudos de caso e outros materiais para refletir minha experiência crescente nesta área. Fique à vontade para explorar e contribuir com sugestões.
+### 📊 SIEM & Monitoramento
+- Splunk Administration
+- Elastic Stack
+- Criação de dashboards
+- Alertas de segurança
+- Análise de tendências
 
-## Contato
+---
 
-- **LinkedIn**: [Luciano Henrique Morais Girão](https://www.linkedin.com/in/luciano-gir%C3%A3o)  
-- **GitHub**: [LucianoHMG](https://github.com/LucianoHMG)
+## 📂 Estrutura do Repositório
 
-## Certificados
+```
+Portfolio-Cybersecurity-Luciano/
+├── README.md                    # Este arquivo
+├── certificados/                # Certificações profissionais
+│   ├── AWS_Security.pdf
+│   ├── Splunk_Fundamentals.pdf
+│   └── Cybersecurity_Essentials.pdf
+├── Apresentação profissional    # Documento de carreira
+│   ├── CV.pdf
+│   ├── Expertise.docx
+│   └── Recomendações.pdf
+└── projetos/                    # (Projetos práticos)
+    ├── incident_response/
+    ├── cloud_security/
+    └── log_analysis/
+```
 
-SOC Essencial IBSEC* (Janeiro 2025)
-  Certificação que valida conhecimentos essenciais em operações de segurança cibernética
-  
-## Certificações Recentes
+---
 
-![Certificação SOC Essencial IBSEC](https://img.shields.io/badge/Certificação-SOC%20Essencial%20IBSEC-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPddHNK0RRGMfx5zozd+68zMtIMpPJW6TIQrKwkJSUhYWNxEJJSkpKFrKwkT+AhYXFpKxkIQuJIiUlKUlJSd7C3HvnOo/fuTOFKb/6nHPPc57bfW5cXsGHnxixGHHbJuE4xGw7+I9EiOk6XWo9/f4YDZ5HXNfpNk1qlUpYlkVc05hSFPpVlV7DIKlpTOg6PYZBl2XRYRgkdJ1OXadDVUmoKp26TsI0iRsGMU1jRFXpM00SqkqbrpMwDGKGQYthENd1Ek1N9Hke7ZZFp2XRZpq0qiqdpkmHrtOmqsQsi5hlEbUsYqZJzLaJWRZRy6LFsok5DnHHIeo4xF2XZschYlnEHYeIbdPiukQdh5jrEnUcIq5L1HWJuC4RzyPiOERcl4jnEXFdwp5HxPOIeB5h1yXsOIRdl5DrEnJdgq5L0HEIuS5BzyPoeQQ9j4DjEHAcAp5HwPPwOw5+x8HvefjzefyFAoH/+AsFfIUCvkIBfz6Pr1DAVyjgzefx5vP48nl8+Ty+fB5vLoc3l8Oby+HN5fBms3izWbzZLFfZLFfZLFfZLN5MBm8mwzewgCYCPT1LcAAAAABJRU5ErkJggg==) *SOC Essencial IBSEC*. 
-      [Ver Certificado](./certificados/Soc.Ibsec.pdf)
+## 🎓 Formação & Certificações
 
+### Certificações Conquistadas ✅
+- **AWS re/Start** (Set 2025 - Jan 2026)
+- **Microsoft Azure Fundamentals** (AZ-900)
+- **IBM Cloud Advocate**
+- **AWS Prompt Engineering com Claude**
+- **Datadog Fundamentals**
+- **IBM AI Foundations**
 
- 
-![IBM Badge](https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-green?style=flat&logo=ibm)
-[Certificado IBM - Cybersecurity Fundamentals](https://www.credly.com/users/luciano-henrique.627cec15)
+### Metas de Certificação 🎯
+- [ ] AWS Certified Cloud Practitioner (Fev 2026)
+- [ ] AWS Certified Security Specialist (H1 2026)
+- [ ] Oracle Cloud Infrastructure Foundations (Em estudo)
+- [ ] CISSP (Long-term goal)
+- [ ] CEH (Certified Ethical Hacker)
 
-## Badges de Competências
+---
 
-![Python](https://img.shields.io/badge/Python-3.8-green?style=flat&logo=python)
-![Security+](https://img.shields.io/badge/Security%2B-Exam%20Ready-orange?style=flat&logo=compTIA)
-![Learning](https://img.shields.io/badge/Current%20Learning-Cybersecurity-blue?style=flat&logo=cloudflare)
+## 💻 Stack Tecnológico
+
+### SIEM & Análise
+| Ferramenta | Nível | Descrição |
+|-----------|-------|----------|
+| **Splunk** | Intermediário | Análise de logs e eventos |
+| **Elastic Stack** | Básico | Stack ELK para monitoramento |
+| **Datadog** | Básico | Observabilidade em nuvem |
+| **Wireshark** | Intermediário | Análise de pacotes de rede |
+
+### Cloud Security
+| Plataforma | Serviço | Conhecimento |
+|-----------|---------|-------------|
+| **AWS** | EC2, S3, IAM, Security Hub | Avançado |
+| **Azure** | VMs, Storage, Security Center | Intermediário |
+| **GCP** | Compute Engine, Cloud Security | Básico |
+
+### Sistemas & Redes
+- **Linux** - Administração e hardening
+- **Windows Server** - Configuração e segurança
+- **Redes TCP/IP** - Análise e otimização
+- **Firewalls** - Palo Alto, Checkpoint
+
+### Programação & Scripting
+```bash
+# Languages
+- Bash          (Avançado)
+- Python        (Intermediário)
+- PowerShell    (Intermediário)
+```
+
+---
+
+## 🔒 Projetos & Experiência
+
+### Projeto 1: Hardening de Instâncias AWS
+**Objetivo:** Implementar segurança em larga escala na AWS
+
+**Tecnologias:** AWS EC2, Security Groups, IAM, CloudTrail
+
+**Resultados:**
+- ✅ Redução de 85% em exposições críticas
+- ✅ Automação de hardening com scripts Bash
+- ✅ Conformidade com CIS AWS Foundations Benchmark
+
+### Projeto 2: Análise de Logs com Splunk
+**Objetivo:** Monitorar e detectar ameaças em tempo real
+
+**Tecnologias:** Splunk, SPL (Search Processing Language), Dashboards
+
+**Resultados:**
+- ✅ 45 dashboards de monitoramento criados
+- ✅ 120+ alertas configurados
+- ✅ Detecção de anomalias com ML Toolkit
+
+### Projeto 3: Análise Forense
+**Objetivo:** Investigar incidentes de segurança
+
+**Tecnologias:** Wireshark, tcpdump, Zeek IDS, Analysis Tools
+
+**Resultados:**
+- ✅ 12 incidentes investigados
+- ✅ Relatórios detalhados gerados
+- ✅ Recomendações de remediação implementadas
+
+---
+
+## 🚀 Metodologias & Frameworks
+
+### NIST Cybersecurity Framework
+- **Identify** - Identificação de ativos
+- **Protect** - Proteção contra ameaças
+- **Detect** - Detecção de anomalias
+- **Respond** - Resposta a incidentes
+- **Recover** - Recuperação de sistemas
+
+### CIS Controls
+- Implementação dos 20 controles críticos
+- Foco em prioritização e eficiência
+- Documentação e compliance
+
+### ISO 27001
+- Gestão da segurança da informação
+- Políticas e procedimentos
+- Auditorias internas
+
+---
+
+## 📊 Estatísticas & Métricas
+
+- **Experiência:** 10+ anos em TI (2+ em Cybersecurity)
+- **Projetos:** 15+ projetos de segurança concluídos
+- **Incidentes Respondidos:** 12+
+- **Certificações:** 6 ativas
+- **Horas de Treinamento:** 500+ em 2025
+
+---
+
+## 🤝 Conecte-se Comigo
+
+Estou sempre interessado em oportunidades para:
+- 🎯 Trabalhar em equipes de cybersecurity
+- 📚 Compartilhar conhecimento e experiências
+- 🔍 Colaborar em projetos de segurança
+- 💼 Mentoring e desenvolvimento profissional
+
+### Canais de Contato
+- **GitHub:** [@LucianoHMG](https://github.com/LucianoHMG)
+- **LinkedIn:** [lucianogirão](https://www.linkedin.com/in/lucianogirão)
+- **Email:** lucianowtp@gmail.com
+
+---
+
+## 📚 Recursos & Referências
+
+### Organizações
+- [NIST - National Institute of Standards and Technology](https://www.nist.gov/)
+- [SANS - Security Training](https://www.sans.org/)
+- [ISC² - Cybersecurity Certifications](https://www.isc2.org/)
+- [CompTIA - Security+](https://www.comptia.org/certifications/security)
+
+### Comunidades
+- [OWASP - Open Web Application Security Project](https://owasp.org/)
+- [ISSA - Information Systems Security Association](https://www.issa.org/)
+- [EC-Council - Ethical Hacking](https://www.eccouncil.org/)
+
+### Leitura Recomendada
+- "The OWASP Top 10"
+- "Cloud Security Best Practices"
+- "Incident Response & Computer Forensics" - Chris Prosise
+
+---
+
+## 💡 Princípios de Segurança
+
+1. **Defense in Depth** - Múltiplas camadas de proteção
+2. **Zero Trust** - Confiança zero por padrão
+3. **Least Privilege** - Mínimo acesso necessário
+4. **Continuous Monitoring** - Vigilância constante
+5. **Incident Response** - Plano de ação rápido
+6. **User Education** - Conscientização é essencial
+
+---
+
+## ⚡ Último Update
+
+**Data:** Janeiro 2026  
+**Status:** 🟢 Ativo e Disponível  
+**Objetivo:** Posição de **Analista de Segurança / SOC Analyst** (Remoto/Híbrido)  
+**Localização:** Praia Grande, SP - Brasil  
+
+---
+
+## ⭐ Se este portfólio foi útil, dê uma star! ⭐
+
+```
+"A segurança cibernética não é uma despesa,
+é um investimento na proteção do futuro digital."
+```
+
+---
+
+**© 2026 Luciano Girão - Todos os direitos reservados**
